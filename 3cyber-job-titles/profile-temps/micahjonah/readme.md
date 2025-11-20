@@ -62,7 +62,7 @@ Currently, I serve as a **SOC Analyst and TA**, mentoring students while detecti
 
 ## 🧩 Featured Projects  
 
-### 1. [**SOC Threat Detection Lab**](https://github.com/micahjonah/soc-threat-detection-lab)
+### 1. [**SOC Threat Detection Lab**](soc-threat-detection.md)
 **Skills:** SIEM Configuration, Log Analysis, Threat Detection, Data Visualization  
 
 Deployed a **Splunk-based SIEM environment** to collect, normalize, and analyze security logs from multiple endpoints.  
