@@ -1,5 +1,5 @@
 
-# 👨‍💻(male emoji) or 👩‍💻(female emoji) [ENTER YOUR NAME]  
+# 🧭 ENTER YOUR FULL NAME
 **GRC Analyst in Training | Security Policy & Risk Management Enthusiast**  
 
 📌 **About Me:**  
