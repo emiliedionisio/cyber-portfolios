@@ -1,6 +1,6 @@
 ## 🔹 Governance, Risk, and Compliance (GRC) Analyst in Training
 
-# 👨‍💻(male) or 👩‍💻(female) [Your Name]  
+# 👨‍💻(male icon) or 👩‍💻(female icon) [ENTER YOUR NAME]  
 **GRC Analyst in Training | Security Policy & Risk Management Enthusiast**  
 
 📌 **About Me:**  
