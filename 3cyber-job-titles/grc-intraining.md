@@ -1,6 +1,6 @@
 
 # 🧭 ENTER YOUR FULL NAME
-**GRC Analyst in Training | Security Policy & Risk Management Enthusiast**  
+**🧮 GRC Analyst in Training | Security Policy & Risk Management Enthusiast**  
 
 📌 **About Me:**  
 I am developing my expertise in **Governance, Risk, and Compliance (GRC)** with a focus on industry standards and security frameworks. 
