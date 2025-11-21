@@ -89,18 +89,6 @@ No previous job experience required — just your willingness to learn and showc
 
 ---
 
-## 🤝 Contributing
-
-If you want to add:
-- More templates  
-- More examples  
-- Skill badges  
-- Project ideas  
-
-Feel free to submit a **pull request** or open an **Issue**!
-
----
-
 ## ⭐ Support & Inspiration
 
 If you find these templates helpful, please consider giving the repository a **⭐ star** to help other students discover it.
@@ -110,7 +98,7 @@ If you find these templates helpful, please consider giving the repository a **�
 ## 📬 Contact
 
 If you have questions or want help creating your portfolio:  
-**Instructor / TA:** Emilie Dionisio  
+**Author:** Emilie Dionisio  
 GitHub: https://github.com/emiliedionisio  
 
 ---
